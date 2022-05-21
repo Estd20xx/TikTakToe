@@ -4,16 +4,5 @@ This is the Simple TikTakToe Game made in C langugae using only simple matrix , 
 
 ## THe Demo of this game is looks like this.
 
-+-----------------------------------------+ <br/>
-|             |             |             | <br/>
-|      1      |      2      |      3      | <br/>
-|             |             |             | <br/>
-+-----------------------------------------+ <br/>
-|             |             |             | <br/>
-|      4      |      5      |      6      | <br/>
-|             |             |             | <br/>
-+-----------------------------------------+ 
-|             |             |             | 
-|      7      |      8      |      9      | 
-|             |             |             | 
-+-----------------------------------------+
+![Tiktaktoe](https://user-images.githubusercontent.com/87481819/169639709-b050e7ea-4ada-44f8-be0f-a7181229b48c.jpg)
+
