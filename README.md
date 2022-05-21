@@ -4,7 +4,7 @@ This is the Simple TikTakToe Game made in C langugae using only simple matrix , 
 
 ## THe Demo of this game is looks like this.
 
-+-----------------------------------------+\n
++-----------------------------------------+ <br/>
 |             |             |             | 
 |      1      |      2      |      3      | 
 |             |             |             | 
